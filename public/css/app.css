@@ -12649,3 +12649,7 @@ a.text-dark:focus {
   }
 }
 
+.nav-tabs .nav-link {
+  color: var(--primary);
+}
+
