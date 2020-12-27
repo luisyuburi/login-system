@@ -1,0 +1,35 @@
+// Custom.scss
+
+
+// Siempre tienes que añadir estos tres archivos
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+
+$primary:       $blue !default;
+$secondary:     $gray-600 !default;
+$success:       $green !default;
+$info:          $cyan !default;
+$warning:       $yellow !default;
+$danger:        $red !default;
+$light:         $gray-100 !default;
+$dark:          $gray-800 !default;
+
+$link-color:                              #fff;
+$link-decoration:                         none !default;
+$link-hover-color:                        #ddd;
+$link-hover-decoration:                   underline !default;
+
+$navbar-dark-color:                 #fff;
+$navbar-dark-hover-color:           rgba($white, .75) !default;
+$navbar-dark-active-color:          $white !default;
+$navbar-dark-disabled-color:        rgba($white, .25) !default;
+
+
+// El resto es opcional. Añade solo lo que necesites
+@import "~bootstrap/scss/reboot";
+@import "~bootstrap/scss/type";
+@import "~bootstrap/scss/images";
+@import "~bootstrap/scss/code";
+@import "~bootstrap/scss/grid";
+
