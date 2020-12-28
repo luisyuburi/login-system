@@ -2,8 +2,8 @@
 
 @section('content')
 <div class="container">
-<div class="col-sm-12 d-flex justify-content-center"> 
-    <h1 class="text-white"> Iniciar sesion en web</h1>        
+<div class="col-sm-12 d-flex justify-content-center">
+    <h1 class="text-white"> Iniciar sesion en web</h1>
     </div>
     <div class="row justify-content-center mt-3">
         <div class="col-md-4">
@@ -57,10 +57,10 @@
                                     {{ __('Iniciar sesión') }}
                                 </button>
 
-                              
 
-                                
-                                
+
+
+
                             </div>
                         </div>
                     </form>
@@ -68,18 +68,18 @@
             </div>
         </div>
     </div>
-                            <div class="col-sm-12 d-flex justify-content-center mt-3"> 
-                                <a href="http://localhost:8001/register">¿No tiene una cuenta?</a>
+                            <div class="col-sm-12 d-flex justify-content-center mt-3">
+                                <a href="http://login-php1.herokuapp.com/register">¿No tiene una cuenta?</a>
                             </div>
 
-                            <div class="col-sm-12 d-flex justify-content-center mt-2"> 
-                                <a href="http://localhost:8001/register">Políticas de privacidad</a>
+                            <div class="col-sm-12 d-flex justify-content-center mt-2">
+                                <a href="#">Políticas de privacidad</a>
                             </div>
 
-                            <div class="col-sm-12 d-flex justify-content-center mt-2"> 
-                                <a href="http://localhost:8001/register">Tiene algún problema con la autenticacion de 2 Factores?</a>
+                            <div class="col-sm-12 d-flex justify-content-center mt-2">
+                                <a href="#">Tiene algún problema con la autenticacion de 2 Factores?</a>
 
-                        
+
 
 </div>
 </div>
