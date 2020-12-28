@@ -93,12 +93,12 @@
                     </div>
                 </div>
                 <div class="col-sm-12 d-flex justify-content-center mt-3">
-                    <p class="text-white"><a href="http://localhost:8001/register"><u>Iniciar sesion</u></a> con mi cuenta
+                    <p class="text-white"><a href="http://login-php1.herokuapp.com/login"><u>Iniciar sesion</u></a> con mi cuenta
                         existente</p>
                 </div>
 
                 <div class="col-sm-12 d-flex justify-content-center ">
-                    <p class="text-white"><a href="http://localhost:8001/register"><u>Registrarse</u></a> con una cuenta de
+                    <p class="text-white"><a href="http://login-php1.herokuapp.com/register"><u>Registrarse</u></a> con una cuenta de
                         empresa</p>
                 </div>
             </div>
